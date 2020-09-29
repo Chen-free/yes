@@ -7,3 +7,4 @@
 在name中
 master
 ssh方式上传
+已经修改
