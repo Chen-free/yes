@@ -7,3 +7,4 @@
 在name中
 master
 使用变量名
+-u
