@@ -6,3 +6,4 @@
 77
 在name中
 master
+ssh方式上传
